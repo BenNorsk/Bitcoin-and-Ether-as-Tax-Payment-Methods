@@ -5,4 +5,4 @@
 
 _By Benjamin L. Brückner_
 
-This repository provides the accompanying data to Brückner's thesis on Bitcoin and Ether as tax payment methods. Here, the key data, as well as the code used to get it is stored.
+This repository provides the accompanying data to Brückner's thesis on Bitcoin and Ether as tax payment methods. Here, the key data and the code used to get it is stored.
