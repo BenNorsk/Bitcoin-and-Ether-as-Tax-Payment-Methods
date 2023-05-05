@@ -1,0 +1,31 @@
+AG: Aktiengesellschaft
+GmBH = Gesellschaft mit beschränkter Haftung
+other legal form = 
+Einzelunternehmen	
+Kollektivgesellschaft	
+Verein	
+Stiftung	
+Zweigniederlassung
+
+
+INDUSTRIES
+
+
+finance/investing:
+
+Financial Services
+Venture Capital and Private Equity Principals
+Investment Management
+Capital Markets
+Banking
+Fundraising
+
+IT:
+IT Services and IT Consulting
+Software Development
+Information Technology & Services
+Technology, Information and Internet
+Computer Networking Products
+Computer and Network Security
+Data Security Software Products
+Computer Games

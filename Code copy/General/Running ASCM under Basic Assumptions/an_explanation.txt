@@ -1,0 +1,1 @@
+https://github.com/ebenmichael/augsynth/blob/master/vignettes/singlesynth-vignette.md
