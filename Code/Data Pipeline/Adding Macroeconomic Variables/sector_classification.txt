@@ -1,18 +1,7 @@
-AG: Aktiengesellschaft
-GmBH = Gesellschaft mit beschränkter Haftung
-other legal form = 
-Einzelunternehmen	
-Kollektivgesellschaft	
-Verein	
-Stiftung	
-Zweigniederlassung
+SECTORS
 
-
-INDUSTRIES
-
-
-finance/investing:
-
+Finance Sector:
+________________
 Financial Services
 Venture Capital and Private Equity Principals
 Investment Management
@@ -20,7 +9,8 @@ Capital Markets
 Banking
 Fundraising
 
-IT:
+Informational Technology (IT) Sector:
+________________
 IT Services and IT Consulting
 Software Development
 Information Technology & Services
