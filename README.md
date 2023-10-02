@@ -11,5 +11,5 @@ This research paper investigates the policy effect of the acceptance of Bitcoin 
 
 **Keywords:** _Bitcoin, Ether, tax policy, Crypto Valley, Zug, augmented synthetic control._
 
-#### Download the Paper
+#### Download the Paper here:
 [Bitcoin and Ether as Tax Payment Methods - Benjamin L. Brückner.pdf](https://github.com/BenNorsk/Bitcoin-and-Ether-as-Tax-Payment-Methods/files/12784741/Bitcoin.and.Ether.as.Tax.Payment.Methods.-.Benjamin.L.Bruckner.pdf)
